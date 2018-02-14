@@ -1,5 +1,5 @@
 # qiushibaike-duanzi-crawler
-[爬取糗事百科的段子信息](https://www.qiushibaike.com/text/)
+爬取[糗事百科的段子](https://www.qiushibaike.com/text/)信息
 
 #### 5:22 PM, Feb 14th, 2018
 
