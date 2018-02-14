@@ -2,7 +2,6 @@
 # 技术关键词：Requests, re, 正则式
 # 爬取糗事百科的段子信息
 # 爬取的内容：用户ID、用户等级、用户性别、发表段子、好笑指数、评论数量
-# 先爬取用户ID、发表段子、好笑指数试试看看
 
 # urls:
 # https://www.qiushibaike.com/text/page/1/
